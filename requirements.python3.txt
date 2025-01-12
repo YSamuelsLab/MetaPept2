@@ -1,0 +1,11 @@
+pandas
+numpy
+difflib
+sqlite3
+itertools
+Levenshtein
+shutil
+pathlib
+Bio
+rpy2
+

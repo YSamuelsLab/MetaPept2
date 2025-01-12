@@ -1,0 +1,1 @@
+Rscript --vanilla Q_vs_ALC.R --name Microbiom --proxy ProxyTrp --box_max_q 0.2 --box_min_alc 50 --comb /data/storwis/dmitryma/Projects2/ProxyW_mice/MetaPept/output/combined_scan_integration.csv --prism /data/storwis/dmitryma/Projects2/ProxyW_mice/MetaPept/output/prism_unique_scan_integration.csv --output /data/storwis/dmitryma/Projects2/ProxyW_mice/Rational_filtering
